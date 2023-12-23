@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "Here is quick bio. You can know more ",
-    aboutme: "I am a pre-final year student at IIT Indore, studying for a Bachelor of Technology degree. My passion lies in programming and development, and I have gained proficiency in multiple languages and frameworks. Having lived in various regions of India, I have a keen interest in discovering new destinations and experiencing diverse cultures.",
+    aboutme: "I am a final year student at IIT Indore, studying for a Bachelor of Technology degree. My passion lies in programming and development, and I have gained proficiency in multiple languages and frameworks. Having lived in various regions of India, I have a keen interest in discovering new destinations and experiencing diverse cultures.",
 };
 const worktimeline = [{
         jobtitle: "Font End Developer",
@@ -38,7 +38,7 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "React",
         value: 90,
     },
     {
@@ -50,8 +50,8 @@ const skills = [{
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Python",
+        value: 80,
     },
     {
         name: "Jquery",
