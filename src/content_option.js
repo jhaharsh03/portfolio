@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "I am a pre-final year student at IIT Indore, My passion lies in programming and development, and I have gained proficiency in multiple languages and frameworks. Having lived in various regions of India, I have a keen interest in discovering new destinations and experiencing diverse cultures.",
+    description: "I am a final year student at IIT Indore, My passion lies in programming and development, and I have gained proficiency in multiple languages and frameworks. Having lived in various regions of India, I have a keen interest in discovering new destinations and experiencing diverse cultures.",
     your_img_url:"images/hj.jpg",
     // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
